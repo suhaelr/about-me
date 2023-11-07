@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at (https://github.com/suhaelr)
+- 👨‍💻 All of my PERSONAL projects are available at (https://github.com/suhaelr)
 
 - 📝 I regularly write articles on (blogqollega@wordpress.com)
 
