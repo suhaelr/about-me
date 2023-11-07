@@ -1,4 +1,4 @@
-![eL's GitHub Banner](https://drive.google.com/file/d/1133hErJwhyl3J3nma8tbvdD3RpeyejzN/view?usp=sharing)
+![eL's GitHub Banner](https://drive.google.com/file/d/1qDgRrPEYJIFp-YrB40QNhaQxSsnGUyzQ/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Suhael Rizqullah</h1>
 <h3 align="center">Long Life Tech Learner</h3>
