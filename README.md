@@ -1,5 +1,3 @@
-# about-me
-
 <h1 align="center">Hi 👋, I'm Suhael Rizqullah</h1>
 <h3 align="center">Long Life Tech Learner</h3>
 
