@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suhael Rizqullah</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Long Life Tech Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaelr&label=Profile%20views&color=0e75b6&style=flat" alt="suhaelr" /> </p>
