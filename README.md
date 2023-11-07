@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaelr&label=Profile%20views&color=0e75b6&style=flat" alt="suhaelr" /> </p>
 
-- 🔭 I’m currently working on [qollega](www.qollega.com)
+- 🔭 I’m currently working on (www.qollega.com)
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/suhaelr](https://github.com/suhaelr)
+- 👨‍💻 All of my projects are available at (https://github.com/suhaelr)
 
-- 📝 I regularly write articles on [blogqollega@wordpress.com](blogqollega@wordpress.com)
+- 📝 I regularly write articles on (blogqollega@wordpress.com)
 
 - 📫 How to reach me **suhaelr@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/suhael-rizqullah/](https://www.linkedin.com/in/suhael-rizqullah/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/suhael-rizqullah/)
 
 - ⚡ Fun fact **I am noob**
 
